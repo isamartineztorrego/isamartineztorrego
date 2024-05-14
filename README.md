@@ -12,6 +12,8 @@ Thanks for stopping by!
 
 <img width="100" alt="image" src="https://github.com/isamartineztorrego/Evaluacion-final_Modulo02/assets/162314262/a8b9ad0d-7c0f-4883-8ee4-aa91d1e688c3">
 
+
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=isamartineztorrego)](https://github.com/isamartineztorrego/github-readme-stats)
 
 
