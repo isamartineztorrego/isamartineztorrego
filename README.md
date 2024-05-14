@@ -12,7 +12,6 @@ Thanks for stopping by!
 
 <img width="100" alt="image" src="https://github.com/isamartineztorrego/Evaluacion-final_Modulo02/assets/162314262/a8b9ad0d-7c0f-4883-8ee4-aa91d1e688c3">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **isamartineztorrego/isamartineztorrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
