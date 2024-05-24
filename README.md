@@ -2,7 +2,7 @@
 
 I'm Isa and I'm very excited to start my journey as a Data Analyst <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Cartwheeling.png" alt="Woman Cartwheeling" width="25" height="25" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> I'm an experienced multidisciplinary business administrative and I'm currently studying a Data Analyst bootcamp, so I can become a more comprehensive professional.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> I'm an experienced multidisciplinary business administrative and I'm currently completing a Data Analyst bootcamp, so I can become a more comprehensive professional.
 
 👐 Feel free to have a look into my repositories 🔍 and to reach me on my [LinkedIn](https://www.linkedin.com/in/isabelmartineztorrego/).
 
