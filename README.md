@@ -6,7 +6,7 @@ I'm Isa and I'm an experienced data analyst taking my skills to the next level w
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> Here are some of the tools, languages and methodologies I am skilled in:
 * Python (pandas, numpy, scipy, sklearn, matplotlib, seaborn)
 * SQL
-* Power BI y Tableau
+* Power BI and Tableau
 * Excel
 * Pair programming
 * Agile
